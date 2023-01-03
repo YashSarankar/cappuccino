@@ -1,0 +1,71 @@
+{
+"products": [
+  {
+    "id": 1,
+    "name": "iPhone 12 pro",
+    "desc": "Apple iPhone 12 Generation",
+    "price": 999,
+    "color": "#33505a",
+    "image":
+    "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone14pro-202209_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1663611329204"
+  },
+
+  {
+    "id": 2,
+    "name": "Pixel 5",
+    "desc": "Google Pixel phone 5th Generation",
+    "price": 699,
+    "color": "#00ac51",
+    "image":
+    "https://m.media-amazon.com/images/I/61bPca27RKL._SX679_.jpg"
+  },{
+    "id": 3,
+    "name": "M1 Mackbook Air",
+    "desc": "Apple Mackbook air with apple silicon",
+    "price": 1699,
+    "color": "#e0bfae",
+    "image":
+    "https://www.google.com/aclk?sa=l&ai=DChcSEwi_iYyY9NP7AhXdmmYCHR6MCaQYABAFGgJzbQ&sig=AOD64_03sTPSAbBsT-ZkfTiZVH8FyX0jZg&adurl&ctype=5&ved=2ahUKEwiW2f6X9NP7AhUDgGMGHSQIDbYQvhd6BAgBEHc"
+  },{
+    "id": 4,
+    "name": "Playstation 5",
+    "desc": "Sony playstation 5th Generation",
+    "price": 500,
+    "color": "#544ee4",
+    "image":
+    "https://www.google.com/aclk?sa=l&ai=DChcSEwiiks-m9NP7AhUikmYCHaIBB48YABADGgJzbQ&sig=AOD64_1cpWuJRUuzswLC1ViFNa3k1lUylA&adurl&ctype=5&ved=2ahUKEwjk0MCm9NP7AhWRxqACHSTFDk8Qvhd6BAgBEHE"
+  },{
+    "id": 5,
+    "name": "Airpods pro",
+    "desc": "Apple Airpods pro 1st Generation",
+    "price": 200,
+    "color": "#e3e4e9",
+    "image":
+    "https://www.google.com/aclk?sa=l&ai=DChcSEwiEybjC9NP7AhUAlUsFHVCqAAUYABAFGgJzZg&sig=AOD64_3wqgqto8ZHHYW6ow5NAJi4BIRg5A&adurl&ctype=5&ved=2ahUKEwii-azC9NP7AhVWyKACHQajCgMQvhd6BAgBEFo"
+  },{
+    "id": 6,
+    "name": "ipad pro",
+    "desc": "Apple ipad pro 2020 edition",
+    "price": 799,
+    "color": "#f73984",
+    "image":
+    "https://www.google.com/aclk?sa=l&ai=DChcSEwia3o7M9NP7AhXykmYCHZajCJIYABAJGgJzbQ&sig=AOD64_1Hs4aTwtolg9QwjDsZ1OUYI4UyZA&adurl&ctype=5&ved=2ahUKEwi6joHM9NP7AhUlyaACHeGcCbsQvhd6BQgBEIEB"
+  },{
+    "id": 7,
+    "name": "Galaxy S21 Ultra",
+    "desc": "Samsung Galaxy S21 Ultra 2021 edition ",
+    "price": 1299,
+    "color": "#icicic",
+    "image":
+    "https://www.google.com/aclk?sa=l&ai=DChcSEwihgKfe9NP7AhX_kmYCHbHAAgQYABADGgJzbQ&sig=AOD64_08vgkaiFl0cFB242L4B7Ss5Zz5JA&adurl&ctype=5&ved=2ahUKEwiNrZfe9NP7AhWfgGMGHdGYCRIQvhd6BAgBEFE"
+  },{
+    "id": 7,
+    "name": "Galaxy S21 Ultra",
+    "desc": "Samsung Galaxy S21 Ultra 2021 edition ",
+    "price": 899,
+    "color": "#7c95eb",
+    "image":
+    "https://images.samsung.com/is/image/samsung/assets/id/2201/galaxy-s21-ultra-5g/models/images/galaxy-s21-plus-5g_models_colors_phantom-violet.png?$ORIGIN_PNG$"
+  }
+]
+}
